@@ -1,0 +1,42 @@
+.clean-room{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    height: 50%;
+    width: 90%;
+}
+.cleanroomprocess{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 12%;
+    /* background-color: aqua; */
+    color: rgb(4, 63, 108);
+}
+
+/* .popup{
+    background-color: red;
+} */
+
+.inputclean{
+    padding: 1.5%;
+    border-radius: 4px;
+    
+}
+
+.spinner2 {
+    width: 60px;
+    height: 60px;
+    border: 10px solid #e2e2e2;
+    border-top: 10px solid rgb(4, 63, 108);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin: 0% 0% 0% 47.5%;
+    justify-content: center;
+  }
+
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  

@@ -1,0 +1,27 @@
+[
+    {
+      "scanCode": "O0000000000066901682",
+      "password": "password",
+      "name": "Avirup",
+      "id": "OP001"
+    },
+    {
+      "scanCode": "O000000000008801699",
+      "password": "password",
+      "name": "Ayan",
+      "id": "OP002"
+    },
+    {
+      "scanCode": "O000000000005601774",
+      "password": "password",
+      "name": "Anil",
+      "id": "OP003"
+    },
+    {
+      "scanCode": "O00000000000990994",
+      "password": "password",
+      "name": "Jyoti",
+      "id": "OP004"
+    }
+  ]
+  

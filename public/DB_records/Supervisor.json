@@ -1,0 +1,27 @@
+[
+    {
+      "scanCode": "S0000000000061727389",
+      "password": "password",
+      "name": "Jos",
+      "id": "SV001"
+    },
+    {
+      "scanCode": "S00000000000612227385",
+      "password": "password",
+      "name": "Wim",
+      "id": "SV002"
+    },
+    {
+      "scanCode": "S0000000000061227383",
+      "password": "password",
+      "name": "Kelly",
+      "id": "SV003"
+    },
+    {
+      "scanCode": "S0000000000061723381",
+      "password": "password",
+      "name": "Sandra",
+      "id": "SV004"
+    }
+  ]
+  

@@ -1,0 +1,132 @@
+.packagingpanel {
+  width: 90%;
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 24px;
+  background-color: #d5e6f8;
+  border: 2px solid #dee2e6;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.packagingprocess button {
+  padding: 10px 20px;
+  margin: 15px;
+  border: 1px solid black;
+  background-color: #eadf7a;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-weight: bold;
+}
+
+.packagingprocess button:hover {
+  background-color: #dccc41;
+  border: 1px solid black;
+}
+
+.packagingprocess .error {
+  color: #dc3545;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.completed-popup {
+  padding: 20px;
+  background-color: #28a745;
+  color: white;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: bold;
+  animation: fadeIn 0.8s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.progressbarcheck {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.packagingprocess input[type="text"] {
+  padding: 2%;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  width: 90%;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+
+.popupmsg {
+  background-color: #c9dcef;
+  padding: 10px;
+  border-radius: 15px;
+  font-size: 13px;
+  font-weight: bold;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  width: 400px;
+  text-align: center;
+}
+
+.inputcleanbtn {
+  width: 70%;
+  padding: 7px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 12px;
+}
+
+.blinking-message {
+    color: #e91e63;
+    font-weight: bold;
+    animation: blink 1s linear infinite;
+    font-size: 1rem;
+    margin-top: 10px;
+}
+
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+
+.prevcurkit {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.prevcurkit-row {
+  display: table-row;
+}
+
+.prevcurkit-label,
+.prevcurkit-value {
+  display: table-cell;
+  padding: 8px 12px;
+  border: 2px solid #ccc;
+  background-color: #b2d1f2;
+}
+
+.prevcurkit-label {
+  font-weight: bold;
+  background-color: #81acda;
+  width: 150px;
+}

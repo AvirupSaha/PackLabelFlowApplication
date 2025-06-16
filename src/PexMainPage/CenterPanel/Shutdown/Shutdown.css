@@ -1,0 +1,47 @@
+.restart-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: #819cb2;
+  }
+  
+  .spinner {
+    width: 60px;
+    height: 60px;
+    border: 10px solid #e2e2e2;
+    border-top: 10px solid rgb(4, 63, 108);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-bottom: 20px;
+  }
+  
+  @keyframes spin {
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .error-text{
+    color: rgb(4, 63, 108);
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  .relaod-text{
+    color: rgb(4, 63, 108);
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  .packaging {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .confirm-box{
+    font-weight: bolder;
+  }
+  .confirm-box-button{
+    text-align: center;
+  }

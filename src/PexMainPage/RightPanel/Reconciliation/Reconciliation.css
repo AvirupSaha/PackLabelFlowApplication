@@ -1,0 +1,115 @@
+.reconciliationprocess {
+  max-width: 95%;
+  padding: 20px;
+  text-align: center;
+  justify-content: center;
+  margin-left: 1%;
+}
+
+.reconciliationprocess h2 {
+  text-align: center;
+  margin-bottom: 1.5%;
+}
+
+.reconciliation-metrics {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1%;
+  font-size: 14px;
+  background-color: #9cc8ec;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  overflow: hidden;
+  text-align: center;
+}
+
+.reconciliation-metrics th,
+.reconciliation-metrics td {
+  border: 1px solid #ccc;
+  padding: .5%;
+  text-align: center;
+}
+
+.reconciliation-metrics th {
+  background-color: #6e9ec5;
+}
+
+.operator-login-recon {
+  margin: 2.5% 0 0 35%;
+  background: #d3e2ef;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  width: 30vw;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height:55vh;
+}
+
+.operator-login-recon label {
+  display: block;
+  margin: 10px 0 6px;
+  font-weight: 500;
+  color: #333;
+}
+
+.operator-login-recon input {
+  width: 80%;
+  padding: 6px 10px;
+  font-size: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+.operator-login-recon select {
+  width: 80%;
+  padding: 6px 10px;
+  font-size: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+
+.operator-login-recon textarea {
+  width: 100%;
+  padding: 6px 10px;
+  font-size: 1px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+
+
+.operator-login textarea {
+  resize: horizontal;
+  /* Optional: min-height: 80px; */
+}
+
+.confirmation-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1px;
+  margin-top: 10px;
+}
+
+
+.ipc-reason {
+  color: white;
+  background-color: red;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.reconwrapper{
+    height: 0vh;
+    position: fixed;
+    width: 100vw;
+}

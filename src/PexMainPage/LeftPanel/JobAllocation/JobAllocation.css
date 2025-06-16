@@ -1,0 +1,112 @@
+.joballocate {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.Joballocationprocess {
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.joballocate-input {
+  margin-top: 10px;
+}
+
+.button-okcancel {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.joballocate-select {
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  width: 220px;
+  margin-top: 7px;
+  text-align: center;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.joballocate-select option:disabled {
+  color: gray;
+}
+
+.popup-rmal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #ffffff;
+  padding: 2rem;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 12px;
+  width: 450px;
+  z-index: 1000;
+  text-align: left;
+}
+
+.popup-rmal p {
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.popup-rmal label {
+  display: block;
+  margin: 0.5rem 0 0.25rem;
+  font-weight: bold;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.inputclean-rmal {
+  width: 80%;
+  justify-content: center;
+  padding: 0.5rem;
+  margin: 0 0 1rem 2.5rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.button-group {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 1rem;
+  max-width: 100vw;
+}
+
+.error {
+  color: red;
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.popup-success {
+  margin-top: 7.5%;
+  text-align: center;
+    color: #11842c;
+      background-color: #ffffff;
+  padding: 2rem;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: bold;
+  animation: fadeIn 0.8s ease-in-out;
+}
+.btn-grp{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}

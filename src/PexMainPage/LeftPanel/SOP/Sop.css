@@ -1,0 +1,93 @@
+.sop-docs-credit {
+  max-width: 80vw;
+  margin: 80px auto;
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #d6e7ff;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  animation: fadeIn 0.4s ease-in-out;
+}
+
+.sop-docs-credit h2 {
+  margin-bottom: 20px;
+  color: #3175cd;
+  text-align: center;
+}
+
+.sop-docs-credit p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.sop-docs-credit strong {
+  color: #333;
+}
+
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+
+.sop-docs {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #f8f9fb;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.sop-docs h2 {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #2a5f9e;
+}
+
+.sop-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 30px;
+}
+
+.sop-table th,
+.sop-table td {
+  border: 1px solid #7199c9;
+  background-color: #bed0ea;
+  padding: 12px;
+  text-align: left;
+}
+
+.sop-table th {
+  background-color: #20436e;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.download-link {
+  color: #0567d7;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.download-link:hover {
+  text-decoration: underline;
+}
+
+.sop-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}

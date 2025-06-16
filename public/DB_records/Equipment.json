@@ -1,0 +1,217 @@
+[
+  {
+    "equipment_name": "WRKST00001989",
+    "equipment_type": "Workstation",
+    "equipment_scan_code": "WST000",
+    "serial_number": "SN-WST-299"
+  },
+  {
+    "equipment_name": "WRKST00001922",
+    "equipment_type": "Workstation",
+    "equipment_scan_code": "WST001",
+    "serial_number": "SN-WST-213"
+  },
+  {
+    "equipment_name": "WRKST00001921",
+    "equipment_type": "Workstation",
+    "equipment_scan_code": "WST002",
+    "serial_number": "SN-WST-214"
+  },
+  {
+    "equipment_name": "WRKST00001920",
+    "equipment_type": "Workstation",
+    "equipment_scan_code": "WST003",
+    "serial_number": "SN-WST-215"
+  },
+  {
+    "equipment_name": "WRKST00001919",
+    "equipment_type": "Workstation",
+    "equipment_scan_code": "WST004",
+    "serial_number": "SN-WST-216"
+  },
+  {
+    "equipment_name": "WRKST00001918",
+    "equipment_type": "Workstation",
+    "equipment_scan_code": "WST005",
+    "serial_number": "SN-WST-217"
+  },
+  {
+    "equipment_name": "WRKST00001917",
+    "equipment_type": "Workstation",
+    "equipment_scan_code": "WST006",
+    "serial_number": "SN-WST-218"
+  },
+  {
+    "equipment_name": "WRKST00004949",
+    "equipment_type": "Workstation",
+    "equipment_scan_code": "WST009",
+    "serial_number": "SN-WST-299"
+  },
+  {
+    "equipment_name": "WRKCNTR004906",
+    "equipment_type": "Workcenter",
+    "equipment_scan_code": "WRK001",
+    "serial_number": "SN-WRK-123"
+  },
+  {
+    "equipment_name": "WRKCNTR002944",
+    "equipment_type": "Workcenter",
+    "equipment_scan_code": "WRK002",
+    "serial_number": "SN-WRK-124"
+  },
+  {
+    "equipment_name": "WRKCNTR001654",
+    "equipment_type": "Workcenter",
+    "equipment_scan_code": "WRK003",
+    "serial_number": "SN-WRK-125"
+  },
+  {
+    "equipment_name": "WRKCNTR001567",
+    "equipment_type": "Workcenter",
+    "equipment_scan_code": "WRK004",
+    "serial_number": "SN-WRK-126"
+  },
+  {
+    "equipment_name": "WRKCNTR001870",
+    "equipment_type": "Workcenter",
+    "equipment_scan_code": "WRK005",
+    "serial_number": "SN-WRK-127"
+  },
+  {
+    "equipment_name": "Intermec02174 001",
+    "equipment_type": "SU Printer",
+    "equipment_scan_code": "SU001",
+    "serial_number": "SN-SU-001"
+  },
+  {
+    "equipment_name": "Intermec01171 010",
+    "equipment_type": "SU Printer",
+    "equipment_scan_code": "SU002",
+    "serial_number": "SN-SU-002"
+  },
+  {
+    "equipment_name": "Intermec08984 003",
+    "equipment_type": "SU Printer",
+    "equipment_scan_code": "SU003",
+    "serial_number": "SN-SU-003"
+  },
+  {
+    "equipment_name": "Domino Gx350i 0013",
+    "equipment_type": "Label Printer",
+    "equipment_scan_code": "LBL013",
+    "serial_number": "SN-LBL-013"
+  },
+  {
+    "equipment_name": "Zebra GK420t 012",
+    "equipment_type": "Label Printer",
+    "equipment_scan_code": "LBL014",
+    "serial_number": "SN-LBL-072"
+  },
+  {
+    "equipment_name": "Honeywell PM43 009",
+    "equipment_type": "Label Printer",
+    "equipment_scan_code": "LBL009A",
+    "serial_number": "SN-LBL-009A"
+  },
+  {
+    "equipment_name": "Honeywell PM45 009",
+    "equipment_type": "Label Printer",
+    "equipment_scan_code": "LBL009B",
+    "serial_number": "SN-LBL-009B"
+  },
+  {
+    "equipment_name": "Honeywell PX940 006",
+    "equipment_type": "Label Printer",
+    "equipment_scan_code": "LBL006",
+    "serial_number": "SN-LBL-006"
+  },
+  {
+    "equipment_name": "Intermec PX4i 007",
+    "equipment_type": "Label Printer",
+    "equipment_scan_code": "LBL007",
+    "serial_number": "SN-LBL-007"
+  },
+  {
+    "equipment_name": "Intermec PX6i 008",
+    "equipment_type": "Label Printer",
+    "equipment_scan_code": "LBL008",
+    "serial_number": "SN-LBL-008"
+  },
+  {
+    "equipment_name": "Zebra ZT610 011",
+    "equipment_type": "Label Printer",
+    "equipment_scan_code": "LBL011",
+    "serial_number": "SN-LBL-011"
+  },
+  {
+    "equipment_name": "Zebra GX430t 012",
+    "equipment_type": "Label Printer",
+    "equipment_scan_code": "LBL012",
+    "serial_number": "SN-LBL-012"
+  },
+  {
+    "equipment_name": "Zebra ZT411",
+    "equipment_type": "Roll Printer",
+    "equipment_scan_code": "ROLL001",
+    "serial_number": "SN-ROLL-001"
+  },
+  {
+    "equipment_name": "Honeywell PM45",
+    "equipment_type": "Roll Printer",
+    "equipment_scan_code": "ROLL002",
+    "serial_number": "SN-ROLL-002"
+  }, {
+    "equipment_name": "Manual pack 041",
+    "equipment_type": "Manual Pack",
+    "equipment_scan_code": "MP041",
+    "serial_number": "SN-MP-041"
+  },
+  {
+    "equipment_name": "Manual pack 042",
+    "equipment_type": "Manual Pack",
+    "equipment_scan_code": "MP042",
+    "serial_number": "SN-MP-042"
+  },
+  {
+    "equipment_name": "Manual pack 043",
+    "equipment_type": "Manual Pack",
+    "equipment_scan_code": "MP043",
+    "serial_number": "SN-MP-043"
+  },
+  {
+    "equipment_name": "Manual pack 044",
+    "equipment_type": "Manual Pack",
+    "equipment_scan_code": "MP044",
+    "serial_number": "SN-MP-044"
+  },
+  {
+    "equipment_name": "Manual pack 045",
+    "equipment_type": "Manual Pack",
+    "equipment_scan_code": "MP045",
+    "serial_number": "SN-MP-045"
+  },
+  {
+    "equipment_name": "Manual pack 046",
+    "equipment_type": "Manual Pack",
+    "equipment_scan_code": "MP046",
+    "serial_number": "SN-MP-046"
+  },
+  {
+    "equipment_name": "Manual pack 047",
+    "equipment_type": "Manual Pack",
+    "equipment_scan_code": "MP047",
+    "serial_number": "SN-MP-047"
+  },
+  {
+    "equipment_name": "Manual pack 048",
+    "equipment_type": "Manual Pack",
+    "equipment_scan_code": "MP048",
+    "serial_number": "SN-MP-048"
+  },
+  {
+    "equipment_name": "Manual pack 049",
+    "equipment_type": "Manual Pack",
+    "equipment_scan_code": "MP049",
+    "serial_number": "SN-MP-049"
+  }
+]

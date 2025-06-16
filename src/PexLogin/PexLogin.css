@@ -1,0 +1,44 @@
+.pexlogin-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-color: #f5f7fa; 
+    padding: 20px;
+  }
+  
+  .pexlogin-box {
+    background-color: #97b2c6;
+    padding: 50px 40px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .pexlogin-title {
+    margin-bottom: 28px;
+    font-size: 28px;
+    font-weight: 600;
+    color: #222;
+  }
+  
+  .pexlogin-input {
+    width: 90%;
+    padding: 14px 16px;
+    margin-bottom: 20px;
+    border: 1px solid #2c2c2c;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: border 0.3s ease;
+  }
+
+  
+  .pexlogin-error {
+    margin-top: 10px;
+    color: #c0392b;
+    font-size: 14px;
+  }
+  

@@ -1,0 +1,76 @@
+.roomallocationprocess {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 400px;
+  margin: 5% auto;
+  padding: 2rem;
+  border: 1px solid #ccc;
+  border-radius: 16px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.roomallocationprocess h3 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.roomallocationprocess select {
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid #000000;
+  background-color: #fff;
+  color: #333;
+}
+
+.primary-button {
+  padding: 0.5rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: 1px solid black;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+
+.button-okcancel {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.inputclean-rmal1 {
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 0.95rem;
+  margin-bottom: 1.25rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-sizing: border-box;
+}
+
+.popup-rmal1 {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+
+.popup-success-rap {
+  color: #11842c;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: bold;
+  animation: fadeIn 0.8s ease-in-out;
+}
+

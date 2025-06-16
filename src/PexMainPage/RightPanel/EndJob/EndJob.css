@@ -1,0 +1,24 @@
+.loading-screen {
+  text-align: center;
+  margin-top: 15%;
+  justify-content: center;
+  align-items: center;
+  color: rgb(4, 63, 108);
+}
+
+.spinner1 {
+    width: 60px;
+    height: 60px;
+    border: 10px solid #e2e2e2;
+    border-top: 10px solid rgb(4, 63, 108);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-bottom: 20px;
+    margin-left: 47.5%;
+  }
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,112 @@
+.operator-login {
+  max-width: 400px;
+  margin: 100px auto;
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  height: 75vh;
+  background-color: #fff;
+}
+
+.operator-login h2 {
+  margin-bottom: 20px;
+  color: #3175cd;
+}
+
+.operator-login input[type="text"],
+.operator-login input[type="password"] {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
+
+.confirmation-popup {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #e8f0fe;
+  border: 1px solid #007bff;
+  border-radius: 10px;
+  text-align: left;
+}
+
+.confirmation-popup h3 {
+  margin-bottom: 15px;
+  color: #007bff;
+}
+
+.confirmation-popup p {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+.confirmation-buttons {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.primary-button {
+  margin: 0 5px;
+}
+
+.logout-cross {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  font-size: 16px;
+  padding: 6px 10px;
+  border-radius: 100%;
+  cursor: pointer;
+}
+
+.logout-cross:hover {
+  background-color: #c0392b;
+}
+
+.operator-table {
+  max-width: 10vw;
+   border: 1px solid #8ab9eb;
+  font-size:small;
+}
+
+.operator-table th {
+background-color: #195595;
+color: white;
+ padding: 12px;
+}
+.operator-table td {
+  border: 1px solid #1c7ee7;
+  padding: 12px;
+  text-align: center;
+}
+
+.redirect-msg {
+  margin-top: 15px;
+  font-weight: bold;
+  color: green;
+}
+.gap-login-screen{
+  padding:2.5%
+}

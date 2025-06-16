@@ -1,0 +1,42 @@
+[
+  {
+    "id": "room_allocation",
+    "label": "Is the room correctly allocated to the operator and does it match the assigned Manual Pack?"
+  },
+  {
+    "id": "equipment_verification",
+    "label": "Have all required equipment types i.e. Label Printer, SU Printer, Roll Printer, Workstation, Workcenter and Manual Pack been scanned and verified as working and online?"
+  },
+  {
+    "id": "safety_guidelines",
+    "label": "Has the operator read and acknowledged the safety guidelines for printer usage to prevent hazards?"
+  },
+  {
+    "id": "job_verification",
+    "label": "Is the job assigned to the room active and does it correspond with the current packaging activity?"
+  },
+  {
+    "id": "equipment_layout",
+    "label": "Does the physical equipment layout match the system configuration and follow the logical packaging workflow?"
+  },
+  {
+    "id": "operator_credentials",
+    "label": "Have the operator's credentials been validated using the credential screen (Scan Code & Password)?"
+  },
+  {
+    "id": "label_stock_check",
+    "label": "Is there sufficient label stock loaded in both the SU and label printers before proceeding?"
+  },
+  {
+    "id": "barcode_readability",
+    "label": "Have the Kit and/or SU barcodes been tested for readability to ensure accurate tracking during the process?"
+  },
+  {
+    "id": "area_cleaning",
+    "label": "Has the packaging area, including workstation and equipment surfaces been cleaned and sanitized before use?"
+  },
+  {
+    "id": "emergency_signals_check",
+    "label": "Are the emergency stop button and alert signals (for errors or hazards) tested and functioning properly?"
+  }
+]
